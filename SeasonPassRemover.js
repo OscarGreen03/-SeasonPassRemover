@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Remove Season Pass auto
 // @namespace    https://github.com/OscarGreen03/-SeasonPassRemover
-// @version      0.2
+// @version      0.3
 // @description  fantastic script (donations in fishbucks plz)
 // @author       Okka
 // @match        https://www.fishtank.live/
