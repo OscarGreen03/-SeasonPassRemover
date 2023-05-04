@@ -31,7 +31,7 @@
             }
         }
     });
-
+    console.log("Test Update");
     // Observe changes to the body element
     observer.observe(document.body, { childList: true, subtree: true });
 })();
