@@ -6,7 +6,8 @@
 // @author       Okka
 // @match        https://www.fishtank.live/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=fishtank.live
-// @updateURL 
+// @updateURL    https://github.com/OscarGreen03/-SeasonPassRemover/blob/main/SeasonPassRemover.js
+// @downloadURL  https://github.com/OscarGreen03/-SeasonPassRemover/blob/main/SeasonPassRemover.js
 // @grant        none
 // ==/UserScript==
 
